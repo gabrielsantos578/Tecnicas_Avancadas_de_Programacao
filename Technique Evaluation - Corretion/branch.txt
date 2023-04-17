@@ -1,2 +1,2 @@
-PI - Trabalhando com Branches - Sucessfull
-PI - Projetenado um cenário de conflito
+PI - Trabalhando com Branches (SUCESS)
+PI - Teste de Conflito (SUCESS)
