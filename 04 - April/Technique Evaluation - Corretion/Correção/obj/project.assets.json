@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\Correção\\Correção\\Correção.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\Advanced_Programming_Techniques\\04 - April\\Technique Evaluation - Corretion\\Correção\\Correção.csproj",
       "projectName": "Correção",
-      "projectPath": "C:\\Users\\Aluno\\Downloads\\Correção\\Correção\\Correção.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Downloads\\Advanced_Programming_Techniques\\04 - April\\Technique Evaluation - Corretion\\Correção\\Correção.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Downloads\\Correção\\Correção\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Downloads\\Advanced_Programming_Techniques\\04 - April\\Technique Evaluation - Corretion\\Correção\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

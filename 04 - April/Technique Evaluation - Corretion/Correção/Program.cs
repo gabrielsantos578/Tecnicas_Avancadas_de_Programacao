@@ -58,7 +58,7 @@ internal class Promgram
                 for (int i = 0; i < 10; i++)
                 {
 
-                    vetor[i] = (numero.Next(100) - 50);
+                    vetor[i] = (numero.Next(199) - 100);
 
                     if (vetor[i] < 0)
                     {
@@ -102,7 +102,20 @@ internal class Promgram
                             somaS += vetor[l, c];
                         }
 
-                        if (vetor[l, c] == 0 || vetor[l, c] == 1 || vetor[l, c] == 2 || vetor[l, c] % 2 != 0)
+                        int confirmacao=0;
+                        for (int i = 2; i < vetor[l, c]; i++)
+                        {
+                            if (vetor[l, c] % i == 0)
+                            {
+                                confirmacao = 1;
+                            }
+                        }
+
+                        if (vetor[l, c] == 0 || vetor[l, c] == 1 || vetor[l, c] == 2)
+                        {
+                            quantP++;
+                        } 
+                        if (confirmacao != 1)
                         {
                             quantP++;
                         }

@@ -28,3 +28,18 @@ C:\Users\Aluno\Downloads\Correção\Correção\obj\Debug\net6.0\refint\Correçã
 C:\Users\Aluno\Downloads\Correção\Correção\obj\Debug\net6.0\Correção.pdb
 C:\Users\Aluno\Downloads\Correção\Correção\obj\Debug\net6.0\Correção.genruntimeconfig.cache
 C:\Users\Aluno\Downloads\Correção\Correção\obj\Debug\net6.0\ref\Correção.dll
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\bin\Debug\net6.0\Correção.exe
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\bin\Debug\net6.0\Correção.deps.json
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\bin\Debug\net6.0\Correção.runtimeconfig.json
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\bin\Debug\net6.0\Correção.dll
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\bin\Debug\net6.0\Correção.pdb
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\obj\Debug\net6.0\Correção.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\obj\Debug\net6.0\Correção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\obj\Debug\net6.0\Correção.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\obj\Debug\net6.0\Correção.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\obj\Debug\net6.0\Correção.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\obj\Debug\net6.0\Correção.dll
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\obj\Debug\net6.0\refint\Correção.dll
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\obj\Debug\net6.0\Correção.pdb
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\obj\Debug\net6.0\Correção.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Technique Evaluation - Corretion\Correção\obj\Debug\net6.0\ref\Correção.dll
