@@ -1,0 +1,31 @@
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\bin\Debug\net6.0\appsettings.json
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\bin\Debug\net6.0\Web Application n1.staticwebassets.runtime.json
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\bin\Debug\net6.0\Web Application n1.exe
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\bin\Debug\net6.0\Web Application n1.deps.json
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\bin\Debug\net6.0\Web Application n1.runtimeconfig.json
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\bin\Debug\net6.0\Web Application n1.dll
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\bin\Debug\net6.0\Web Application n1.pdb
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\Web Application n1.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\Web Application n1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\Web Application n1.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\Web Application n1.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\Web Application n1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\Web Application n1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\Web Application n1.RazorAssemblyInfo.cache
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\Web Application n1.RazorAssemblyInfo.cs
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\staticwebassets\msbuild.Web Application n1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\staticwebassets\msbuild.build.Web Application n1.props
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web Application n1.props
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web Application n1.props
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\scopedcss\bundle\Web Application n1.styles.css
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\scopedcss\projectbundle\Web Application n1.bundle.scp.css
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\Web Application n1.dll
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\refint\Web Application n1.dll
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\Web Application n1.pdb
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\Web Application n1.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Advanced_Programming_Techniques\04 - April\Web Application n1\Web Application n1\obj\Debug\net6.0\ref\Web Application n1.dll

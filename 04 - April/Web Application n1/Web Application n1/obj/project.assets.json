@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\Web Application n1\\Web Application n1\\Web Application n1.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\Advanced_Programming_Techniques\\04 - April\\Web Application n1\\Web Application n1\\Web Application n1.csproj",
       "projectName": "Web Application n1",
-      "projectPath": "C:\\src\\Web Application n1\\Web Application n1\\Web Application n1.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Downloads\\Advanced_Programming_Techniques\\04 - April\\Web Application n1\\Web Application n1\\Web Application n1.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\Web Application n1\\Web Application n1\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Downloads\\Advanced_Programming_Techniques\\04 - April\\Web Application n1\\Web Application n1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
