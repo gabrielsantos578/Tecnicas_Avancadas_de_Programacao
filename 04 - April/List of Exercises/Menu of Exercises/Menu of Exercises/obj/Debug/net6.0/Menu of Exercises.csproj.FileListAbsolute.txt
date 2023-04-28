@@ -1,0 +1,15 @@
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\bin\Debug\net6.0\ATP - Menu of Exercises.exe
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\bin\Debug\net6.0\ATP - Menu of Exercises.deps.json
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\bin\Debug\net6.0\ATP - Menu of Exercises.runtimeconfig.json
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\bin\Debug\net6.0\ATP - Menu of Exercises.dll
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\bin\Debug\net6.0\ATP - Menu of Exercises.pdb
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\obj\Debug\net6.0\ATP - Menu of Exercises.csproj.AssemblyReference.cache
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\obj\Debug\net6.0\ATP - Menu of Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\obj\Debug\net6.0\ATP - Menu of Exercises.AssemblyInfoInputs.cache
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\obj\Debug\net6.0\ATP - Menu of Exercises.AssemblyInfo.cs
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\obj\Debug\net6.0\ATP - Menu of Exercises.csproj.CoreCompileInputs.cache
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\obj\Debug\net6.0\ATP - Menu of Exercises.dll
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\obj\Debug\net6.0\refint\ATP - Menu of Exercises.dll
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\obj\Debug\net6.0\ATP - Menu of Exercises.pdb
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\obj\Debug\net6.0\ATP - Menu of Exercises.genruntimeconfig.cache
+C:\Users\lucass\source\repos\ATP - Menu of Exercises\ATP - Menu of Exercises\obj\Debug\net6.0\ref\ATP - Menu of Exercises.dll
