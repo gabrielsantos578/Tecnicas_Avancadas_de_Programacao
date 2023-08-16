@@ -1,0 +1,7 @@
+select * from Emprestimos;
+
+insert into Emprestimos values ('Emanuel Mendonça', 'Nathally Endy', 'Os Titânicos', '16-08-2023 00:00:00.000000');
+insert into Emprestimos values ('Julia Morena', 'Nathally Endy', 'Pequenos Atos', '20-05-2023 00:00:00.000000');
+insert into Emprestimos values ('Melliane Nagata', 'Adams Harvad', 'CEO of Sucess', '10-07-2023 00:00:00.000000');
+insert into Emprestimos values ('Hevernal Kuane', 'Doms Gurandy', 'Manifestos', '13-02-2023 00:00:00.000000');
+insert into Emprestimos values ('Everton Luver', 'Doms Gurandy', 'English Lenguage', '07-03-2023 00:00:00.000000');
