@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W6N5ejEkzAW5zEgl4eW6YwJbDRIPZ+kRjTk444UDqrq120jbSAe/+RwuqAulrvdMvtpXemG61z/JOKxpAT6d7Q==",
+  "dgSpecHash": "ya5/I9A+HlgHRrw3K7QDSDBwdc8as9O4ksDbSAqOM6lsnVaMY2d2dW0ts0FLte18wQgILXTScUrOzViJM6RTmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\Restaurante\\Restaurante\\Restaurante.csproj",
+  "projectFilePath": "C:\\Users\\Aluno\\Downloads\\Advanced_Programming_Techniques\\08 - August\\Restaurante\\Restaurante\\Restaurante.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

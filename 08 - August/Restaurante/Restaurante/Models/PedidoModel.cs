@@ -5,7 +5,7 @@ namespace Restaurante.Models
     public class PedidoModel
     {
 
-        public int id { get; set; }
+        public int Id { get; set; }
 
         [Required(ErrorMessage = "Digite o Nome do Cliente")]
         public string? Cliente { get; set; }
