@@ -1,0 +1,100 @@
+CREATE TABLE Restaurante (
+    idRestaurante integer primary key identity,
+    nomeRestaurante varchar(100) not null,
+    avaliacaoRestaurante numeric(2,1) not null,
+    dataFundacao datetime not null
+);
+
+INSERT INTO Restaurante (nomeRestaurante, avaliacaoRestaurante, dataFundacao) 
+VALUES ('Teste', 4.7, '20/05/2020'); 
+
+
+
+CREATE TABLE Funcionario (
+    idFuncionario integer primary key identity,
+    nomeFuncionario varchar(100) not null,
+    emailFuncionario varchar(100) not null,
+    senhaFuncionario varchar(50) not null,
+    numeroFuncionario varchar(15) not null,
+    cpfFuncionario varchar(15) not null,
+    cargoFuncionario varchar(20) not null,
+    tipoFuncionario varchar(20) not null,
+    enderecoFuncionario varchar(200) not null,
+    salarioFuncionario numeric(8,2) not null,
+    codigoRestaurante integer references Restaurante(idRestaurante)
+);
+
+INSERT INTO Funcionario (nomeFuncionario, emailFuncionario, senhaFuncionario, numeroFuncionario, cpfFuncionario, cargoFuncionario, tipoFuncionario, enderecoFuncionario, salarioFuncionario, codigoRestaurante) 
+VALUES ('Roman Beggin', 'teste@gmail.com', '123', '(15) 98320-8790', '476.322.235-09', 'Gerente', 'Admin', 'Jales SP, Rua dos Mumanos nº 1560, Bairro Amado', 7800, 1); 
+
+
+
+CREATE TABLE Comida (
+    idComida integer primary key identity,
+    nomeComida varchar(100) not null,
+    descricaoComida varchar(200) not null,
+    valorComida numeric(8,2) not null,
+    avaliacaoComida numeric(2,1) not null,
+    statusComida varchar(20) not null,
+    codigoRestaurante integer references Restaurante(idRestaurante)
+);
+
+INSERT INTO Comida (nomeComida, descricaoComida, valorComida, avaliacaoComida, statusComida, codigoRestaurante) 
+VALUES ('Pizza 20 queijos', 'Diabete em forma de massa.', 50, 4.9, 'Em estoque.', 1); 
+
+
+
+CREATE TABLE Cliente (
+    idCliente integer primary key identity,
+    nomeCliente varchar(100) not null,
+    emailCliente varchar(100) not null,
+    senhaCliente varchar(50) not null,
+    numeroCliente varchar(15) not null,
+    enderecoCliente varchar(200) not null
+);
+
+INSERT INTO Cliente (nomeCliente, emailCliente, senhaCliente, numeroCliente, enderecoCliente) 
+VALUES ('Steve Mendonça', 'smen@gmail.com', '123456', '(17) 99780-7856', 'Bonito SP, Rua dos Felicidade nº 2040, Bairro Gordo'); 
+
+
+
+CREATE TABLE Pedido (
+    idPedido integer primary key identity,
+    valorTotal numeric(8,2) not null,
+    dataPedido datetime not null,
+    statusPedido varchar(20) not null,
+    codigoCliente integer references Cliente(idCliente)
+);
+
+INSERT INTO Pedido (valorTotal, dataPedido, statusPedido, codigoCliente) 
+VALUES (680, '10/09/2023', 'Em produção.', 1); 
+
+
+
+CREATE TABLE ListaItem (
+    idListaItem integer primary key identity,
+    valorComida numeric(8,2) not null,
+    quantidadeItem integer not null,
+    valorParcial numeric(8,2) not null,
+    codigoPedido integer references Pedido(idPedido),
+    codigoComida integer references Comida(idComida)
+);
+
+INSERT INTO ListaItem(valorComida, quantidadeItem, valorParcial, codigoPedido, codigoComida) 
+VALUES (50, 2, 100, 1, 1); 
+
+
+
+SELECT * FROM Restaurante re 
+INNER JOIN Funcionario fu ON re.idRestaurante = fu.codigoRestaurante
+INNER JOIN Comida co ON re.idRestaurante = co.codigoRestaurante
+INNER JOIN ListaItem li ON co.idComida = li.codigoComida
+INNER JOIN Pedido pe ON pe.idPedido = li.codigoPedido
+INNER JOIN Cliente cl ON cl.idCliente = pe.codigoCliente;
+
+SELECT * FROM Restaurante;
+SELECT * FROM Funcionario;
+SELECT * FROM Comida;
+SELECT * FROM Cliente;
+SELECT * FROM Pedido;
+SELECT * FROM ListaItem;

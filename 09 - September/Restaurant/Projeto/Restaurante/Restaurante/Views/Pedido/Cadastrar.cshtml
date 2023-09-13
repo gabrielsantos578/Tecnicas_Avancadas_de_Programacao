@@ -1,0 +1,33 @@
+﻿@model PedidoModel
+@{
+    ViewData["title"] = "Cadastrar Pedido";
+}
+
+<div class="container bg-dark p-5 rounded-5">
+
+    <div class="mb-5 text-center">
+        <h1 class="text-light">Cadastro de Pedido</h1>
+    </div>
+
+    <form method="post" asp-controller="Pedido" asp-action="Cadastrar">
+
+        <div class="form-group">
+            <label for="Cliente" class="text-light">Cliente</label>
+            <input type="text" class="form-control" asp-for="Cliente" id="Cliente" placeholder="Informe o nome do recebedor . . ." />
+            <span class="text-danger" asp-validation-for="Cliente"></span>
+        </div>
+        <br>
+        <div class="form-group">
+            <label for="Valor" class="text-light">Valor</label>
+            <input type="text" class="form-control" asp-for="Valor" id="Valor" placeholder="Informe o valor . . ." />
+            <span class="text-danger" asp-validation-for="Valor"></span>
+        </div>
+        <br><br>
+        <div class="d-flex gap-5 wt-5">
+            <button type="submit" class="btn btn-success w-50">Enviar</button>
+            <a class="btn btn-primary w-50" asp-controller="Pedido" asp-action="Index">Voltar</a>
+        </div>
+
+    </form>
+
+</div>
