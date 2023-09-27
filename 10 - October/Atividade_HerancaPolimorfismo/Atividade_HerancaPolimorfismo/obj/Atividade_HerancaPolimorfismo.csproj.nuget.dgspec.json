@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Downloads\\Tecnicas_Avancadas_de_Programacao\\09 - September\\HerancaPolimorfismo\\HerancaPolimorfismo\\HerancaPolimorfismo.csproj": {}
+    "C:\\Users\\Aluno\\Downloads\\Tecnicas_Avancadas_de_Programacao\\10 - October\\Atividade_HerancaPolimorfismo\\Atividade_HerancaPolimorfismo\\Atividade_HerancaPolimorfismo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Downloads\\Tecnicas_Avancadas_de_Programacao\\09 - September\\HerancaPolimorfismo\\HerancaPolimorfismo\\HerancaPolimorfismo.csproj": {
+    "C:\\Users\\Aluno\\Downloads\\Tecnicas_Avancadas_de_Programacao\\10 - October\\Atividade_HerancaPolimorfismo\\Atividade_HerancaPolimorfismo\\Atividade_HerancaPolimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\Tecnicas_Avancadas_de_Programacao\\09 - September\\HerancaPolimorfismo\\HerancaPolimorfismo\\HerancaPolimorfismo.csproj",
-        "projectName": "HerancaPolimorfismo",
-        "projectPath": "C:\\Users\\Aluno\\Downloads\\Tecnicas_Avancadas_de_Programacao\\09 - September\\HerancaPolimorfismo\\HerancaPolimorfismo\\HerancaPolimorfismo.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\Tecnicas_Avancadas_de_Programacao\\10 - October\\Atividade_HerancaPolimorfismo\\Atividade_HerancaPolimorfismo\\Atividade_HerancaPolimorfismo.csproj",
+        "projectName": "Atividade_HerancaPolimorfismo",
+        "projectPath": "C:\\Users\\Aluno\\Downloads\\Tecnicas_Avancadas_de_Programacao\\10 - October\\Atividade_HerancaPolimorfismo\\Atividade_HerancaPolimorfismo\\Atividade_HerancaPolimorfismo.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Downloads\\Tecnicas_Avancadas_de_Programacao\\09 - September\\HerancaPolimorfismo\\HerancaPolimorfismo\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Downloads\\Tecnicas_Avancadas_de_Programacao\\10 - October\\Atividade_HerancaPolimorfismo\\Atividade_HerancaPolimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

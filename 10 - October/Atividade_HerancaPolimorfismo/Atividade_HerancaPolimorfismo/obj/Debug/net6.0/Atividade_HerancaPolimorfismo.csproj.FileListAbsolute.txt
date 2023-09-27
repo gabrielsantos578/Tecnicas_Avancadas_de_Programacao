@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\bin\Debug\net6.0\Atividade_HerancaPolimorfismo.exe
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\bin\Debug\net6.0\Atividade_HerancaPolimorfismo.deps.json
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\bin\Debug\net6.0\Atividade_HerancaPolimorfismo.runtimeconfig.json
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\bin\Debug\net6.0\Atividade_HerancaPolimorfismo.dll
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\bin\Debug\net6.0\Atividade_HerancaPolimorfismo.pdb
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\obj\Debug\net6.0\Atividade_HerancaPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\obj\Debug\net6.0\Atividade_HerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\obj\Debug\net6.0\Atividade_HerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\obj\Debug\net6.0\Atividade_HerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\obj\Debug\net6.0\Atividade_HerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\obj\Debug\net6.0\Atividade_HerancaPolimorfismo.dll
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\obj\Debug\net6.0\refint\Atividade_HerancaPolimorfismo.dll
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\obj\Debug\net6.0\Atividade_HerancaPolimorfismo.pdb
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\obj\Debug\net6.0\Atividade_HerancaPolimorfismo.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Tecnicas_Avancadas_de_Programacao\10 - October\Atividade_HerancaPolimorfismo\Atividade_HerancaPolimorfismo\obj\Debug\net6.0\ref\Atividade_HerancaPolimorfismo.dll
